@@ -60,4 +60,4 @@ filed with the reasoning attached rather than as one-line tickets — the
 container work needs somebody with a container runtime, and writing a gateway
 for a CA that does not have one is the best-isolated work in the project.
 
-<p align="center"><sub>Apache 2.0 · self-hosted · no paid tier</sub></p>
+<p align="center"><sub>MIT · self-hosted · no paid tier</sub></p>
